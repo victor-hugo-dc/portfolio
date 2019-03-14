@@ -2,7 +2,6 @@
  body { margin: 0; overflow-x: hidden; overflow-y: hidden; width: 100%; background: #ffffff; color: #000000;font-size: 16px; font-weight: 500;}
  a { color: #000000; text-decoration: underline;font-weight: 600; }
  a:hover {opacity: .50;}
- #bar { background-color: #3366BB; height: 10px; width: 100%;}
  .wsite-header-section .wsite-content-title, .wsite-header-section .paragraph { font-family:"Raleway"; color:#000000;letter-spacing: 0px !important; }
  .wsite-header-section .paragraph {font-weight:200 !important;text-transform:  none !important;}
  .wsite-header-section .wsite-content-title {font-size:50px !important;line-height:40px !important;}
